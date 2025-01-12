@@ -141,7 +141,7 @@ The dashboard uses several libraries for data manipulation:
 ## 🌐 Deployment
 
 
-Live Demo: [https://ev-population-dashboard.demo.com](https://ev-population-dashboard.demo.com)
+Live Demo: [https://mellifluous-malasada-48ffff.netlify.app/](https://mellifluous-malasada-48ffff.netlify.app/)
 
 ## 📱 Responsive Design
 
